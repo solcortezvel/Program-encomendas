@@ -1,0 +1,14 @@
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.exe
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.deps.json
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.runtimeconfig.json
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.runtimeconfig.dev.json
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.dll
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\bin\Debug\netcoreapp3.1\ex0tutorial5.pdb
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.AssemblyInfo.cs
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.dll
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.pdb
+C:\Users\AEMaximinos\Documents\2023-24\PSI\POO\mod9\tutorial5\ex0tutorial5\ex0tutorial5\obj\Debug\netcoreapp3.1\ex0tutorial5.genruntimeconfig.cache

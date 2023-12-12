@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ex0tutorial5/1.0.0": {
+        "runtime": {
+          "ex0tutorial5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex0tutorial5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
